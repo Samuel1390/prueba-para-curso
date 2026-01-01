@@ -1,6 +1,7 @@
 const nombre = "Pepe"
 
-funtion saludar() {
+function saludar() {//aqui esta la correccion pa
   return ("hola " + nombre)
 }
 console.log(saludar())
+
